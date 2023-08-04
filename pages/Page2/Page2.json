@@ -28,7 +28,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page2_dsfdsfsdfsdf.myFun1",
               "name": "dsfdsfsdfsdf.myFun1",
               "collectionId": "Page2_dsfdsfsdfsdf",
               "clientSideExecution": true,
@@ -40,7 +39,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Page2_dsfdsfsdfsdf.myFun2",
               "name": "dsfdsfsdfsdf.myFun2",
               "collectionId": "Page2_dsfdsfsdfsdf",
               "clientSideExecution": true,
@@ -52,7 +50,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Page2_dsfdsfsdfsdf.myFun4",
               "name": "dsfdsfsdfsdf.myFun4",
               "collectionId": "Page2_dsfdsfsdfsdf",
               "confirmBeforeExecute": true,
@@ -63,7 +60,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Page2_dsfdsfsdfsdf.myFun6",
               "name": "dsfdsfsdfsdf.myFun6",
               "collectionId": "Page2_dsfdsfsdfsdf",
               "confirmBeforeExecute": false,

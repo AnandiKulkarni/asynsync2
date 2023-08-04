@@ -28,7 +28,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page3_Query1",
               "name": "Query1",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -38,7 +37,6 @@
           ],
           [
             {
-              "id": "Page3_JSObject1.myFun1",
               "name": "JSObject1.myFun1",
               "collectionId": "Page3_JSObject1",
               "clientSideExecution": true,

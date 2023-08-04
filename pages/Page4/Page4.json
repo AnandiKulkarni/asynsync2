@@ -28,7 +28,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page4_JSObject1.myFun2",
               "name": "JSObject1.myFun2",
               "collectionId": "Page4_JSObject1",
               "confirmBeforeExecute": false,
@@ -41,7 +40,6 @@
           ],
           [
             {
-              "id": "Page4_Api1",
               "name": "Api1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -51,7 +49,6 @@
           ],
           [
             {
-              "id": "Page4_JSObject1.myFun1",
               "name": "JSObject1.myFun1",
               "collectionId": "Page4_JSObject1",
               "clientSideExecution": true,
