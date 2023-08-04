@@ -1,0 +1,33 @@
+{
+  "pages": [
+    {
+      "id": "Page2",
+      "isDefault": false
+    },
+    {
+      "id": "Page4",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "Page3",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "64ccb0d2f277b4643797bf3b",
+  "color": "#EAEDFB",
+  "icon": "shopper",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
